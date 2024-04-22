@@ -1,2 +1,2 @@
 # Game-NFT
-Game NFT for test
+Game NFT for test on remix
